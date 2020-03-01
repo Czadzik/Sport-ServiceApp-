@@ -7,3 +7,11 @@ C:\Users\Krzysztof Gałuszka\Desktop\Service\SportNewsService\SportNewsService\o
 C:\Users\Krzysztof Gałuszka\Desktop\Service\SportNewsService\SportNewsService\obj\Debug\SportNewsService.csproj.CoreCompileInputs.cache
 C:\Users\Krzysztof Gałuszka\Desktop\Service\SportNewsService\SportNewsService\obj\Debug\SportNewsService.exe
 C:\Users\Krzysztof Gałuszka\Desktop\Service\SportNewsService\SportNewsService\obj\Debug\SportNewsService.pdb
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe.config
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.pdb
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.ProjectInstaller.resources
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.Service1.resources
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.csproj.GenerateResource.cache
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.exe
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.pdb

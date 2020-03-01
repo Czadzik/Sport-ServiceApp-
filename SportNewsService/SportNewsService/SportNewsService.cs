@@ -32,31 +32,43 @@ namespace SportNewsService
 
         protected override void OnStart(string[] args)
         {
-            WriteToFile("Service is started at " + DateTime.Now);
+            WriteToFile("Service is started at " + DateTime.Now, "pilkanozna");
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
             timer.Interval = 600000; //co jaki czas aktualizujemy dane
             timer.Enabled = true;
             // Pierwsze pobieranie danych po uruchomieniu
-            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkanozna.xml"));
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkanozna.xml"), "pilkanozna");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/siatkowka.xml"), "siatkowka");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/sportywalki.xml"), "sportywalki");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkareczna.xml"), "pilkareczna");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/moto.xml"), "moto");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/tenis.xml"), "tenis");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/koszykowka.xml"), "koszykowka");
         }
 
         protected override void OnStop()
         {
-            WriteToFile("Service is stopped at " + DateTime.Now);
+            WriteToFile("Service is stopped at " + DateTime.Now, "pilkanozna");
         }
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
-            WriteToFile("Service is recall at " + DateTime.Now);
-            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkanozna.xml"));
+            WriteToFile("Service is recall at " + DateTime.Now, "pilkanozna");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkanozna.xml"), "pilkanozna");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/siatkowka.xml"), "siatkowka");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/sportywalki.xml"), "sportywalki");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkareczna.xml"), "pilkareczna");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/moto.xml"), "moto");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/tenis.xml"), "tenis");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/koszykowka.xml"), "koszykowka");
         }
-        public void WriteToFile(string Message)
+        public void WriteToFile(string Message,string id)
         {
             string path = AppDomain.CurrentDomain.BaseDirectory + "\\Updates";
             if (!Directory.Exists(path))
             {
                 Directory.CreateDirectory(path);
             }
-            string filepath = AppDomain.CurrentDomain.BaseDirectory + "\\Updates\\Update_" + DateTime.Now.Date.ToShortDateString().Replace('/', '_') + ".txt";
+            string filepath = AppDomain.CurrentDomain.BaseDirectory + "\\Updates\\Update_" +id + ".xml";
             if (!File.Exists(filepath))
             {
                 // Create a file to write to.   
