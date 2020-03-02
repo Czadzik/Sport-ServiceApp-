@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 <channel>
 <title>Polsat Sport - WiadomoÅ›ci - PiÅ‚ka noÅ¼na</title>
 <description>KanaÅ‚ RSS Polsat Sport - WiadomoÅ›ci - PiÅ‚ka noÅ¼na</description>
-<link>https://www.polsatsport.pl/dyscyplina/pilka-nozna/</link>
-<atom:link href="https://www.polsatsport.pl/rss/pilkanozna.xml" rel="self" type="application/rss+xml" />
 <language>pl</language>
 <copyright>Polsat Sport</copyright>
 <lastBuildDate>Sun, 01 Mar 2020 21:15:46 +0100</lastBuildDate>
@@ -459,5 +456,4 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-02-28/fortuna-1-liga-radomiak-stracil-bramkarza-przez-decyzje-legii/</guid>
 </item>
 </channel>
-</rss>
 

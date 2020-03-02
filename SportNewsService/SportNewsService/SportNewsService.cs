@@ -10,13 +10,16 @@ using System.Threading.Tasks;
 using System.Timers;
 using System.IO;
 using System.Net;
+using XML_class_test;
 
 namespace SportNewsService
 {
     public partial class Service1 : ServiceBase
     {
+        string[] id_of_rss = new[] { "pilkanozna", "siatkowka", "sportywalki", "pilkareczna", "moto", "tenis", "koszykowka", "wszystkie" };
         static string updateData(string link)
         {
+           
             string data;
             WebClient webClient = new WebClient();
             webClient.Headers.Add("User-Agent: Other");
@@ -32,6 +35,7 @@ namespace SportNewsService
 
         protected override void OnStart(string[] args)
         {
+
             WriteToFile("Service is started at " + DateTime.Now, "pilkanozna");
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
             timer.Interval = 600000; //co jaki czas aktualizujemy dane
@@ -44,6 +48,10 @@ namespace SportNewsService
             WriteToFile(updateData("https://www.polsatsport.pl/rss/moto.xml"), "moto");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/tenis.xml"), "tenis");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/koszykowka.xml"), "koszykowka");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/wszystkie.xml"), "wszystkie");
+            LineRemover.RemoveLine(id_of_rss);
+            Deserialization.Run(id_of_rss);
+
         }
 
         protected override void OnStop()
@@ -60,6 +68,10 @@ namespace SportNewsService
             WriteToFile(updateData("https://www.polsatsport.pl/rss/moto.xml"), "moto");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/tenis.xml"), "tenis");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/koszykowka.xml"), "koszykowka");
+            WriteToFile(updateData("https://www.polsatsport.pl/rss/wszystkie.xml"), "wszystkie");
+            LineRemover.RemoveLine(id_of_rss);
+            Deserialization.Run(id_of_rss);
+
         }
         public void WriteToFile(string Message,string id)
         {
@@ -75,6 +87,7 @@ namespace SportNewsService
                 using (StreamWriter sw = File.CreateText(filepath))
                 {
                     sw.WriteLine(Message);
+
                 }
             }
             else
@@ -84,6 +97,10 @@ namespace SportNewsService
                     sw.WriteLine(Message);
                 }
             }
+
+            
         }
+
+       
     }
 }

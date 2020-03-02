@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 <channel>
 <title>Polsat Sport - WiadomoÅ›ci - PiÅ‚ka rÄ™czna</title>
 <description>KanaÅ‚ RSS Polsat Sport - WiadomoÅ›ci - PiÅ‚ka rÄ™czna</description>
-<link>https://www.polsatsport.pl/dyscyplina/pilka-reczna/</link>
-<atom:link href="https://www.polsatsport.pl/rss/pilkareczna.xml" rel="self" type="application/rss+xml" />
 <language>pl</language>
 <copyright>Polsat Sport</copyright>
 <lastBuildDate>Sun, 01 Mar 2020 21:15:47 +0100</lastBuildDate>
@@ -459,5 +456,4 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-01-21/ehf-euro-2020-norwegia-w-polfinale/</guid>
 </item>
 </channel>
-</rss>
 
