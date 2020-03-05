@@ -23,6 +23,7 @@ namespace SportNewsService
             string data;
             WebClient webClient = new WebClient();
             webClient.Headers.Add("User-Agent: Other");
+            webClient.Encoding= Encoding.UTF8;
             data = webClient.DownloadString(link);
             return data;
         }

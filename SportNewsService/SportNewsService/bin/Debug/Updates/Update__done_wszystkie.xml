@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel>
-<title>Polsat Sport - WiadomoÅ›ci</title>
-<description>KanaÅ‚ RSS Polsat Sport - WiadomoÅ›ci</description>
+<title>Polsat Sport - Wiadomości</title>
+<description>Kanał RSS Polsat Sport - Wiadomości</description>
 <language>pl</language>
 <copyright>Polsat Sport</copyright>
-<lastBuildDate>Thu, 05 Mar 2020 22:00:44 +0100</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2020 22:51:25 +0100</lastBuildDate>
 <item>
-<title><![CDATA[Lewandowski moÅ¼e straciÄ‡ trenera? Flick na celowniku angielskich klubÃ³w]]></title>
-<description><![CDATA[Hansi Flick wciÄ…Å¼ nie moÅ¼e byÄ‡ pewny swojej przyszÅ‚oÅ›ci w Bayernie Monachium. Pomimo Å›wietnych wynikÃ³w, Bawarczycy zwlekajÄ… z nowÄ… umowÄ… dla 55-latka. Niezdecydowanie NiemcÃ³w, mogÄ… wykorzystaÄ‡ kluby z Premier League, ktÃ³re uwaÅ¼nie Å›ledzÄ… poczynania mistrzÃ³w Niemiec.]]></description>
+<title><![CDATA[Euroliga: Ponitka wraca do formy, Zenit lepszy od Żalgirisu]]></title>
+<description><![CDATA[Mateusz Ponitka z Zenita Sankt Petersburg wraca do formy po kilkutygodniowej przerwie spowodowanej kontuzją stawu skokowego - jego ekipa pokonała po dogrywce Żalgiris Kowno 76:75 w meczu 28. kolejki Euroligi koszykarzy. Polak w 23 minuty uzyskał osiem pkt i miał cztery zbiórki.]]></description>
+<link>https://www.polsatsport.pl/wiadomosc/2020-03-05/euroliga-ponitka-wraca-do-formy-zenit-lepszy-od-zalgirisu/</link>
+<pubDate>Thu, 05 Mar 2020 22:12:00 +0100</pubDate>
+<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/1v/1vuft3ucn1fneuxowbpoex61o3ipbcnp.jpg" length="24773" type="image/jpg" />
+<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/rm/rmfu3y8qmpgjbzm5dv5g3kdpinedei58.jpg" length="72230" type="image/jpg" />
+<guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/euroliga-ponitka-wraca-do-formy-zenit-lepszy-od-zalgirisu/</guid>
+</item>
+<item>
+<title><![CDATA[Startuje nowy program "MMA według Tomasza Drwala"]]></title>
+<description><![CDATA[Zapraszamy do oglądania nowego programu MMA według Tomasza Drwala, w którym tytułowy bohater przybliży kulisy treningu MMA i przedstawi trenujących u niego ludzi. Cykl reportaży pokaże, że MMA to sport absolutnie dla każdego - niezależnie od płci, wieku czy wykonywanego zawodu. Pierwszy odcinek można obejrzeć w Polsacie Sport w piątek o północy - w nocy z 6 na 7 marca.]]></description>
+<link>https://www.polsatsport.pl/wiadomosc/2020-03-05/startuje-nowy-program-mma-wedlug-tomasza-drwala/</link>
+<pubDate>Thu, 05 Mar 2020 21:55:00 +0100</pubDate>
+<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/2b/2bv44sfbf1t64tomnbhc7ekh68qke4br.jpg" length="17156" type="image/jpg" />
+<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/ge/gei1mm5jf7fmqoqoxfq72hkk7fvzn43w.jpg" length="50805" type="image/jpg" />
+<guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/startuje-nowy-program-mma-wedlug-tomasza-drwala/</guid>
+</item>
+<item>
+<title><![CDATA[Lewandowski może stracić trenera? Flick na celowniku angielskich klubów]]></title>
+<description><![CDATA[Hansi Flick wciąż nie może być pewny swojej przyszłości w Bayernie Monachium. Pomimo świetnych wyników, Bawarczycy zwlekają z nową umową dla 55-latka. Niezdecydowanie Niemców, mogą wykorzystać kluby z Premier League, które uważnie śledzą poczynania mistrzów Niemiec.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/lewandowski-moze-stracic-trenera-flick-na-celowniku-angielskich-klubow/</link>
 <pubDate>Thu, 05 Mar 2020 21:43:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/gt/gtene7itx927oacpgam7wn1hi3zipnpp.jpg" length="14976" type="image/jpg" />
@@ -15,8 +33,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/lewandowski-moze-stracic-trenera-flick-na-celowniku-angielskich-klubow/</guid>
 </item>
 <item>
-<title><![CDATA[Polscy skoczkowie bez sukcesÃ³w w Oberwiesenthal]]></title>
-<description><![CDATA[Tomasz Pilch zajÄ…Å‚ dziewiÄ…te miejsce w konkursie skokÃ³w narciarskich w mistrzostwach Å›wiata juniorÃ³w w niemieckim Oberwiesenthal. ZwyciÄ™Å¼yÅ‚ Austriak Peter Resinger. W gronie paÅ„ Kinga Rajda byÅ‚a Ã³sma, a najlepsza okazaÅ‚a siÄ™ Austriaczka Marita Kramer.]]></description>
+<title><![CDATA[Polscy skoczkowie bez sukcesów w Oberwiesenthal]]></title>
+<description><![CDATA[Tomasz Pilch zajął dziewiąte miejsce w konkursie skoków narciarskich w mistrzostwach świata juniorów w niemieckim Oberwiesenthal. Zwyciężył Austriak Peter Resinger. W gronie pań Kinga Rajda była ósma, a najlepsza okazała się Austriaczka Marita Kramer.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/polscy-skoczkowie-bez-sukcesow-w-mistrzostwach-swiata-juniorow/</link>
 <pubDate>Thu, 05 Mar 2020 21:39:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/uu/uub1z3a2hrrc4463z2gumx5onxyaw75n.JPG" length="22563" type="image/jpg" />
@@ -25,7 +43,7 @@
 </item>
 <item>
 <title><![CDATA[Terminarz i plan transmisji 23. kolejki PlusLigi]]></title>
-<description><![CDATA[JuÅ¼ tylko trzy kolejki spotkaÅ„ pozostaÅ‚y do zakoÅ„czenia fazy zasadniczej PlusLigi. WciÄ…Å¼ toczy siÄ™ zaÅ¼arta walka o miejsce w czoÅ‚owej Ã³semce. Czy po tej serii gier poznamy odpowiedzi na czÄ™Å›Ä‡ pytaÅ„? SprawdÅº terminarz i plan transmisji meczÃ³w 23. kolejki PlusLigi.]]></description>
+<description><![CDATA[Już tylko trzy kolejki spotkań pozostały do zakończenia fazy zasadniczej PlusLigi. Wciąż toczy się zażarta walka o miejsce w czołowej ósemce. Czy po tej serii gier poznamy odpowiedzi na część pytań? Sprawdź terminarz i plan transmisji meczów 23. kolejki PlusLigi.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/terminarz-i-plan-transmisji-23-kolejki-plusligi/</link>
 <pubDate>Thu, 05 Mar 2020 21:28:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/wv/wvg3kjt89agw12r5xg94k5o8xkr2s8ze.JPG" length="29906" type="image/jpg" />
@@ -33,8 +51,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/terminarz-i-plan-transmisji-23-kolejki-plusligi/</guid>
 </item>
 <item>
-<title><![CDATA[Puchar Anglii: PiÅ‚karz Tottenhamu chciaÅ‚... biÄ‡ siÄ™ z kibicem (WIDEO)]]></title>
-<description><![CDATA[Do szokujÄ…cych scen doszÅ‚o po meczu Ä‡wierÄ‡finaÅ‚u Pucharu Anglii, w ktÃ³rym Tottenham mierzyÅ‚ siÄ™ z Norwich City. Po koÅ„cowym gwizdku, zawodnik gospodarzy - Eric Dier, wtargnÄ…Å‚ na trybuny i chciaÅ‚... pobiÄ‡ kibica, ktÃ³ry obraziÅ‚ jego brata. CaÅ‚e zdarzenie uchwyciÅ‚y kamery i w Anglii jest duÅ¼a afera z tego powodu.]]></description>
+<title><![CDATA[Puchar Anglii: Piłkarz Tottenhamu chciał... bić się z kibicem (WIDEO)]]></title>
+<description><![CDATA[Do szokujących scen doszło po meczu ćwierćfinału Pucharu Anglii, w którym Tottenham mierzył się z Norwich City. Po końcowym gwizdku, zawodnik gospodarzy - Eric Dier, wtargnął na trybuny i chciał... pobić kibica, który obraził jego brata. Całe zdarzenie uchwyciły kamery i w Anglii jest duża afera z tego powodu.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/puchar-anglii-pilkarz-tottenhamu-chcial-bic-sie-z-kibicem-wideo/</link>
 <pubDate>Thu, 05 Mar 2020 21:21:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/ov/ov9b93n23qvvs2y81ghrzg4m95gb94vr.jpg" length="27983" type="image/jpg" />
@@ -42,8 +60,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/puchar-anglii-pilkarz-tottenhamu-chcial-bic-sie-z-kibicem-wideo/</guid>
 </item>
 <item>
-<title><![CDATA[Fajdek: W Tokio interesuje mnie tylko zÅ‚oto]]></title>
-<description><![CDATA[â€“ NauczyÅ‚em siÄ™ odlewaÄ‡ i emaliowaÄ‡ medale, a wczeÅ›niej pokazaÅ‚em, Å¼e umiem je wygrywaÄ‡ na waÅ¼nych imprezach. W Tokio teÅ¼ zamierzam wziÄ…Ä‡ medal do rÄ™ki â€“ mÃ³wi PaweÅ‚ Fajdek, czterokrotny mistrz Å›wiata w rzucie mÅ‚otem, ktÃ³ry w lipcu ma wreszcie siÄ™gnÄ…Ä‡ po olimpijskie zÅ‚oto.]]></description>
+<title><![CDATA[Fajdek: W Tokio interesuje mnie tylko złoto]]></title>
+<description><![CDATA[– Nauczyłem się odlewać i emaliować medale, a wcześniej pokazałem, że umiem je wygrywać na ważnych imprezach. W Tokio też zamierzam wziąć medal do ręki – mówi Paweł Fajdek, czterokrotny mistrz świata w rzucie młotem, który w lipcu ma wreszcie sięgnąć po olimpijskie złoto.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/fajdek-w-tokio-interesuje-mnie-tylko-zloto/</link>
 <pubDate>Thu, 05 Mar 2020 21:10:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/44/44cdgtqh381r1avtiqa9h1i92vf7we9m.jpg" length="15809" type="image/jpg" />
@@ -51,8 +69,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/fajdek-w-tokio-interesuje-mnie-tylko-zloto/</guid>
 </item>
 <item>
-<title><![CDATA[Maraton w ParyÅ¼u przeÅ‚oÅ¼ony z powodu koronawirusa]]></title>
-<description><![CDATA[Zaplanowany na 5 kwietnia maraton w ParyÅ¼u, ktÃ³ry jest jednÄ… z najwiÄ™kszych imprez biegowych na Å›wiecie, zostaÅ‚ przeÅ‚oÅ¼ony na 18 paÅºdziernika. Powodem jest epidemia koronawirusa.]]></description>
+<title><![CDATA[Maraton w Paryżu przełożony z powodu koronawirusa]]></title>
+<description><![CDATA[Zaplanowany na 5 kwietnia maraton w Paryżu, który jest jedną z największych imprez biegowych na świecie, został przełożony na 18 października. Powodem jest epidemia koronawirusa.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/maraton-w-paryzu-przelozony-z-powodu-koronawirusa/</link>
 <pubDate>Thu, 05 Mar 2020 20:45:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/qd/qdgu18s1gg2aexroc43awhmwupeunnag.jpg" length="25318" type="image/jpg" />
@@ -60,8 +78,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/maraton-w-paryzu-przelozony-z-powodu-koronawirusa/</guid>
 </item>
 <item>
-<title><![CDATA[Krispol 1. Liga: Mickiewicz Kluczbork wywalczyÅ‚ awans do fazy play-off]]></title>
-<description><![CDATA[W czwartkowym meczu 25. kolejki Krispol 1. Ligi ekipa UKS Mickiewicz Kluczbork zwyciÄ™Å¼yÅ‚a przed wÅ‚asnÄ… publicznoÅ›ciÄ… z APP Krispolem WrzeÅ›nia 3:2. Gospodarze, mimo iÅ¼ nie byli faworytem, zdobyli dwa punkty i zapewnili sobie awans do fazy play-off.]]></description>
+<title><![CDATA[Krispol 1. Liga: Mickiewicz Kluczbork wywalczył awans do fazy play-off]]></title>
+<description><![CDATA[W czwartkowym meczu 25. kolejki Krispol 1. Ligi ekipa UKS Mickiewicz Kluczbork zwyciężyła przed własną publicznością z APP Krispolem Września 3:2. Gospodarze, mimo iż nie byli faworytem, zdobyli dwa punkty i zapewnili sobie awans do fazy play-off.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/mickiewicz-kluczbork-wygral-z-krispolem-wrzesnia-i-dolacza-do-pierwszej-osemki-krispol-1-ligi/</link>
 <pubDate>Thu, 05 Mar 2020 20:38:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/u3/u31sonax83k6wq2taiyp781cnqyppp8v.png" length="179991" type="image/jpg" />
@@ -69,8 +87,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/mickiewicz-kluczbork-wygral-z-krispolem-wrzesnia-i-dolacza-do-pierwszej-osemki-krispol-1-ligi/</guid>
 </item>
 <item>
-<title><![CDATA[UEFA rzuca wyzwanie Fifie. Nowy turniej z udziaÅ‚em najlepszych]]></title>
-<description><![CDATA[Niewykluczone, Å¼e juÅ¼ niedÅ‚ugo kibice bÄ™dÄ… mieli do czynienia z zupeÅ‚nie nowÄ… formÄ… rozgrywek klubowych. Wszystko za sprawÄ… projektu, jaki przygotowuje UEFA w odniesieniu do letniego okresu przygotowaÅ„. WÅ‚adze europejskiej organizacji chcÄ… rozszerzyÄ‡ aktualny turniej towarzyski International Champions Cup.]]></description>
+<title><![CDATA[UEFA rzuca wyzwanie Fifie. Nowy turniej z udziałem najlepszych]]></title>
+<description><![CDATA[Niewykluczone, że już niedługo kibice będą mieli do czynienia z zupełnie nową formą rozgrywek klubowych. Wszystko za sprawą projektu, jaki przygotowuje UEFA w odniesieniu do letniego okresu przygotowań. Władze europejskiej organizacji chcą rozszerzyć aktualny turniej towarzyski International Champions Cup.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/uefa-rzuca-wyzwanie-fifie-nowy-turniej-z-udzialem-najlepszych/</link>
 <pubDate>Thu, 05 Mar 2020 20:26:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/c7/c7bw3ehyu5x19tbzuco93qsydw2dq9z5.jpg" length="17269" type="image/jpg" />
@@ -78,8 +96,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/uefa-rzuca-wyzwanie-fifie-nowy-turniej-z-udzialem-najlepszych/</guid>
 </item>
 <item>
-<title><![CDATA[SÅ‚ynny Å›rodkowy siatkarzem Trentino Volley do 2022 roku!]]></title>
-<description><![CDATA[Trentino Volley, jeden z czoÅ‚owych klubÃ³w wÅ‚oskiej Serie A1, poinformowaÅ‚ o przedÅ‚uÅ¼eniu umowy ze Srecko Lisinacem. SÅ‚ynny serbski Å›rodkowy ma reprezentowaÄ‡ barwy ekipy z Trydentu do 2022 roku.]]></description>
+<title><![CDATA[Słynny środkowy siatkarzem Trentino Volley do 2022 roku!]]></title>
+<description><![CDATA[Trentino Volley, jeden z czołowych klubów włoskiej Serie A1, poinformował o przedłużeniu umowy ze Srecko Lisinacem. Słynny serbski środkowy ma reprezentować barwy ekipy z Trydentu do 2022 roku.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/slynny-srodkowy-siatkarzem-trentino-volley-do-2022-roku/</link>
 <pubDate>Thu, 05 Mar 2020 20:18:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/r6/r61mo1pzj6pthqk12rjw2ukngxtsgemc.JPG" length="29399" type="image/jpg" />
@@ -87,8 +105,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/slynny-srodkowy-siatkarzem-trentino-volley-do-2022-roku/</guid>
 </item>
 <item>
-<title><![CDATA[PÅš w skokach: Zawody w Oslo bez kibicÃ³w]]></title>
-<description><![CDATA[Zaplanowane na najbliÅ¼szy weekend zawody Pucharu Åšwiata w skokach narciarskich w Oslo-Holmenkollen odbÄ™dÄ… siÄ™ bez udziaÅ‚u kibicÃ³w. Powodem jest epidemia koronawirusa. WidzÃ³w nie bÄ™dzie takÅ¼e podczas rywalizacji w biegach narciarskich i kombinacji norweskiej.]]></description>
+<title><![CDATA[PŚ w skokach: Zawody w Oslo bez kibiców]]></title>
+<description><![CDATA[Zaplanowane na najbliższy weekend zawody Pucharu Świata w skokach narciarskich w Oslo-Holmenkollen odbędą się bez udziału kibiców. Powodem jest epidemia koronawirusa. Widzów nie będzie także podczas rywalizacji w biegach narciarskich i kombinacji norweskiej.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-zawody-w-oslo-bez-kibicow/</link>
 <pubDate>Thu, 05 Mar 2020 19:44:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/x3/x3artbqqrveioaorajygnod7kdb479ky.JPG" length="13426" type="image/jpg" />
@@ -96,8 +114,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-zawody-w-oslo-bez-kibicow/</guid>
 </item>
 <item>
-<title><![CDATA[0â€“22! Najgorsza druÅ¼yna ligi siatkarek wciÄ…Å¼ ma szansÄ™ na utrzymanie]]></title>
-<description><![CDATA[WisÅ‚a Warszawa zakoÅ„czyÅ‚a rozgrywki fazy zasadniczej Ligi SiatkÃ³wki Kobiet z najgorszym dorobkiem w historii â€“ minus jeden punkt, 0 zwyciÄ™stw i 22 poraÅ¼ki. DruÅ¼yna, ktÃ³ra wyraÅºnie odstawaÅ‚a od reszty ligowej stawki, wciÄ…Å¼ ma szansÄ™ na utrzymanie w ekstraklasie. O unikniÄ™cie spadku powalczÄ… z #VolleyWrocÅ‚aw, czyli przedostatniÄ… druÅ¼ynÄ… ligowej tabeli.]]></description>
+<title><![CDATA[0–22! Najgorsza drużyna ligi siatkarek wciąż ma szansę na utrzymanie]]></title>
+<description><![CDATA[Wisła Warszawa zakończyła rozgrywki fazy zasadniczej Ligi Siatkówki Kobiet z najgorszym dorobkiem w historii – minus jeden punkt, 0 zwycięstw i 22 porażki. Drużyna, która wyraźnie odstawała od reszty ligowej stawki, wciąż ma szansę na utrzymanie w ekstraklasie. O uniknięcie spadku powalczą z #VolleyWrocław, czyli przedostatnią drużyną ligowej tabeli.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/022-najgorsza-druzyna-ligi-siatkarek-wciaz-ma-szanse-na-utrzymanie/</link>
 <pubDate>Thu, 05 Mar 2020 19:21:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/c6/c6ko1qvbgfmen7ryn2n488dqh7crom37.JPG" length="34665" type="image/jpg" />
@@ -105,8 +123,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/022-najgorsza-druzyna-ligi-siatkarek-wciaz-ma-szanse-na-utrzymanie/</guid>
 </item>
 <item>
-<title><![CDATA[Polska grupa kolarska wycofuje siÄ™ z etapÃ³w ParyÅ¼-Nicea oraz Tirreno-Adriatico]]></title>
-<description><![CDATA[Z powodu rozprzestrzeniania siÄ™ koronawirusa polska grupa kolarska CCC Team wycofaÅ‚a siÄ™ z wyÅ›cigÃ³w etapowych ParyÅ¼-Nicea (8-15 marca) i Tirreno-Adriatico (11-17 marca). W czwartek organizatorzy odwoÅ‚ali sÅ‚ynny wÅ‚oski klasyk Strade Bianche.]]></description>
+<title><![CDATA[Polska grupa kolarska wycofuje się z etapów Paryż-Nicea oraz Tirreno-Adriatico]]></title>
+<description><![CDATA[Z powodu rozprzestrzeniania się koronawirusa polska grupa kolarska CCC Team wycofała się z wyścigów etapowych Paryż-Nicea (8-15 marca) i Tirreno-Adriatico (11-17 marca). W czwartek organizatorzy odwołali słynny włoski klasyk Strade Bianche.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/polska-grupa-kolarska-wycofuje-sie-z-paryz-nicea-oraz-tirreno-adriatico/</link>
 <pubDate>Thu, 05 Mar 2020 19:08:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/i2/i2174qpysbxf5fca8cvn9r4h396sva5f.jpg" length="20780" type="image/jpg" />
@@ -114,8 +132,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/polska-grupa-kolarska-wycofuje-sie-z-paryz-nicea-oraz-tirreno-adriatico/</guid>
 </item>
 <item>
-<title><![CDATA[Serie A: PoznaliÅ›my nowe terminy meczÃ³w, w tym hitu Juventus - Inter]]></title>
-<description><![CDATA[PiÄ™Ä‡ meczÃ³w 26. kolejki wÅ‚oskiej ekstraklasy piÅ‚karskiej, ktÃ³re z powodu epidemii koronawirusa nie zostaÅ‚y rozegrane w planowanym terminie od 29 lutego do 2 marca, odbÄ™dzie siÄ™ w najbliÅ¼szÄ… niedzielÄ™. WÅ›rÃ³d nich szlagier Juventus Turyn - Inter Mediolan.]]></description>
+<title><![CDATA[Serie A: Poznaliśmy nowe terminy meczów, w tym hitu Juventus - Inter]]></title>
+<description><![CDATA[Pięć meczów 26. kolejki włoskiej ekstraklasy piłkarskiej, które z powodu epidemii koronawirusa nie zostały rozegrane w planowanym terminie od 29 lutego do 2 marca, odbędzie się w najbliższą niedzielę. Wśród nich szlagier Juventus Turyn - Inter Mediolan.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/serie-a-poznalismy-nowe-terminy-meczow-w-tym-hitu-juventus-inter/</link>
 <pubDate>Thu, 05 Mar 2020 19:06:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/i8/i8ffexivdesh1yrwx8tjtjevvk5owdq3.jpg" length="24131" type="image/jpg" />
@@ -123,8 +141,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/serie-a-poznalismy-nowe-terminy-meczow-w-tym-hitu-juventus-inter/</guid>
 </item>
 <item>
-<title><![CDATA[Polak grajÄ…cy we WÅ‚oszech porÃ³wnany do... artysty futbolu. "W szybkim tempie siÄ™ rozwija"]]></title>
-<description><![CDATA[PorÃ³wnanie do Andrei Pirlo, to dla kaÅ¼dego piÅ‚karza olbrzymi komplement. Takiego doczekaÅ‚ siÄ™ Patryk Dziczek, ktÃ³ry po trudnym poczÄ…tku we WÅ‚oszech, wywalczyÅ‚ sobie miejsce w podstawowym skÅ‚adzie grajÄ…cej w Serie B - Salernitany.]]></description>
+<title><![CDATA[Polak grający we Włoszech porównany do... artysty futbolu. "W szybkim tempie się rozwija"]]></title>
+<description><![CDATA[Porównanie do Andrei Pirlo, to dla każdego piłkarza olbrzymi komplement. Takiego doczekał się Patryk Dziczek, który po trudnym początku we Włoszech, wywalczył sobie miejsce w podstawowym składzie grającej w Serie B - Salernitany.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/polak-grajacy-we-wloszech-porownany-do-artysty-futbolu-w-szybkim-tempie-sie-rozwija/</link>
 <pubDate>Thu, 05 Mar 2020 18:55:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/zq/zqcnct1t8ndudqj68zo89avxoia4u94y.JPG" length="24574" type="image/jpg" />
@@ -132,8 +150,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/polak-grajacy-we-wloszech-porownany-do-artysty-futbolu-w-szybkim-tempie-sie-rozwija/</guid>
 </item>
 <item>
-<title><![CDATA[PÅš w biathlonie: Hojnisz-StarÄ™ga dziewiÄ…ta w sprincie]]></title>
-<description><![CDATA[Monika Hojnisz-StarÄ™ga zajÄ™Å‚a w Novym Mescie dziewiÄ…te miejsce w sprincie na 7,5 km, zaliczanym do Pucharu Åšwiata w biathlonie. W Czechach, gdzie ze wzglÄ™du na epidemiÄ™ koronawirusa zawody odbywajÄ… siÄ™ bez udziaÅ‚u publicznoÅ›ci, zwyciÄ™Å¼yÅ‚a Niemka Denise Herrmann.]]></description>
+<title><![CDATA[PŚ w biathlonie: Hojnisz-Staręga dziewiąta w sprincie]]></title>
+<description><![CDATA[Monika Hojnisz-Staręga zajęła w Novym Mescie dziewiąte miejsce w sprincie na 7,5 km, zaliczanym do Pucharu Świata w biathlonie. W Czechach, gdzie ze względu na epidemię koronawirusa zawody odbywają się bez udziału publiczności, zwyciężyła Niemka Denise Herrmann.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-biathlonie-hojnisz-starega-dziewiata-w-sprincie/</link>
 <pubDate>Thu, 05 Mar 2020 18:54:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/k3/k3i7tqjowsigueq2r7m35144e1rjquqf.jpg" length="21214" type="image/jpg" />
@@ -141,8 +159,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-biathlonie-hojnisz-starega-dziewiata-w-sprincie/</guid>
 </item>
 <item>
-<title><![CDATA[UFC: Zhang obraziÅ‚a polskich kibicÃ³w. Skandaliczne zachowanie (WIDEO)]]></title>
-<description><![CDATA[Do niemaÅ‚ego skandalu doszÅ‚o podczas treningu medialnego przed GalÄ… UFC 248 w Las Vegas. Rywalka Joanny JÄ™drzejczyk (16-3, 4 KO, 1 SUB) w walce o pas kategorii muszej Chinka Weili Zhang (20-1, 10 KO, 7 SUB) pokazaÅ‚a Å›rodkowy palec polskim kibicom obecnym na wydarzeniu.]]></description>
+<title><![CDATA[UFC: Zhang obraziła polskich kibiców. Skandaliczne zachowanie (WIDEO)]]></title>
+<description><![CDATA[Do niemałego skandalu doszło podczas treningu medialnego przed Galą UFC 248 w Las Vegas. Rywalka Joanny Jędrzejczyk (16-3, 4 KO, 1 SUB) w walce o pas kategorii muszej Chinka Weili Zhang (20-1, 10 KO, 7 SUB) pokazała środkowy palec polskim kibicom obecnym na wydarzeniu.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ufc-248-zhang-obrazila-polskich-kibicow-skandaliczne-zachowanie/</link>
 <pubDate>Thu, 05 Mar 2020 18:30:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/ft/fth16pvkuisd2igxd4m6wpw4ohetgmar.jpg" length="25108" type="image/jpg" />
@@ -150,8 +168,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ufc-248-zhang-obrazila-polskich-kibicow-skandaliczne-zachowanie/</guid>
 </item>
 <item>
-<title><![CDATA[Kluczowy piÅ‚karz Bayernu coraz bliÅ¼ej powrotu na boisko. PoczyniÅ‚ wielki postÄ™p]]></title>
-<description><![CDATA[Kolejny krok w stronÄ™ powrotu do peÅ‚ni dyspozycji poczyniÅ‚ Niklas Suele. W czwartek lider defensywy Bayernu Monachium odbyÅ‚ pierwszy trening z piÅ‚kÄ… po zerwaniu wiÄ™zadÅ‚a krzyÅ¼owego. - To Å›wietne uczucie wrÃ³ciÄ‡ do zajÄ™Ä‡ z piÅ‚kÄ… po takim czasie â€“ przyznaÅ‚ reprezentant Niemiec.]]></description>
+<title><![CDATA[Kluczowy piłkarz Bayernu coraz bliżej powrotu na boisko. Poczynił wielki postęp]]></title>
+<description><![CDATA[Kolejny krok w stronę powrotu do pełni dyspozycji poczynił Niklas Suele. W czwartek lider defensywy Bayernu Monachium odbył pierwszy trening z piłką po zerwaniu więzadła krzyżowego. - To świetne uczucie wrócić do zajęć z piłką po takim czasie – przyznał reprezentant Niemiec.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/kluczowy-pilkarz-bayernu-coraz-blizej-powrotu-na-boisko-poczynil-wielki-postep_1758056/</link>
 <pubDate>Thu, 05 Mar 2020 18:19:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/im/imax1w9tqwk8f59ykmc5wqo37zkpw4xp.jpg" length="28818" type="image/jpg" />
@@ -159,8 +177,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/kluczowy-pilkarz-bayernu-coraz-blizej-powrotu-na-boisko-poczynil-wielki-postep_1758056/</guid>
 </item>
 <item>
-<title><![CDATA[Sawicki: Nasze mecze towarzyskie na tÄ™ chwilÄ™ niezagroÅ¼one]]></title>
-<description><![CDATA[Sekretarz generalny PZPN Maciej Sawicki powiedziaÅ‚, Å¼e mecze towarzyskie polskich piÅ‚karzy - 27 marca z FinlandiÄ… we WrocÅ‚awiu i cztery dni pÃ³Åºniej z UkrainÄ… w Chorzowie - nie sÄ… na tÄ™ chwilÄ™ zagroÅ¼one. Pozostajemy w kontakcie z odpowiednimi sÅ‚uÅ¼bami - dodaÅ‚.]]></description>
+<title><![CDATA[Sawicki: Nasze mecze towarzyskie na tę chwilę niezagrożone]]></title>
+<description><![CDATA[Sekretarz generalny PZPN Maciej Sawicki powiedział, że mecze towarzyskie polskich piłkarzy - 27 marca z Finlandią we Wrocławiu i cztery dni później z Ukrainą w Chorzowie - nie są na tę chwilę zagrożone. Pozostajemy w kontakcie z odpowiednimi służbami - dodał.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/sawicki-nasze-mecze-towarzyskie-na-te-chwile-niezagrozone/</link>
 <pubDate>Thu, 05 Mar 2020 18:10:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/fm/fmtbh8mbyjhj4199gpsdwzqmfvjbjazm.JPG" length="31310" type="image/jpg" />
@@ -168,8 +186,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/sawicki-nasze-mecze-towarzyskie-na-te-chwile-niezagrozone/</guid>
 </item>
 <item>
-<title><![CDATA[Linetty zmieni klub latem? Negocjuje z SampdoriÄ…, ale nie ma porozumienia]]></title>
-<description><![CDATA[Karol Linetty w trwajÄ…cym sezonie radzi sobie bardzo dobrze na wÅ‚oskich boiskach. Polski pomocnik jest waÅ¼nÄ… postaciÄ… Sampdorii, z ktÃ³rÄ… negocjuje przedÅ‚uÅ¼enie kontraktu. Jak na razie, wizja nowej umowy 25-latka rÃ³Å¼ni siÄ™ od tej, ktÃ³rÄ… przedstawiÅ‚ mu klub. Dlatego niewykluczone, Å¼e po sezonie Linetty zmieni barwy klubowe.]]></description>
+<title><![CDATA[Linetty zmieni klub latem? Negocjuje z Sampdorią, ale nie ma porozumienia]]></title>
+<description><![CDATA[Karol Linetty w trwającym sezonie radzi sobie bardzo dobrze na włoskich boiskach. Polski pomocnik jest ważną postacią Sampdorii, z którą negocjuje przedłużenie kontraktu. Jak na razie, wizja nowej umowy 25-latka różni się od tej, którą przedstawił mu klub. Dlatego niewykluczone, że po sezonie Linetty zmieni barwy klubowe.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/linetty-zmieni-klub-latem-polak-negocjuje-z-sampdoria-ale-nie-ma-porozumienia/</link>
 <pubDate>Thu, 05 Mar 2020 17:30:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/fj/fj4xey8b7tpsatjqd7hzn5t77g39q3g1.jpg" length="23479" type="image/jpg" />
@@ -177,8 +195,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/linetty-zmieni-klub-latem-polak-negocjuje-z-sampdoria-ale-nie-ma-porozumienia/</guid>
 </item>
 <item>
-<title><![CDATA[UFC: Ostatnia walka JÄ™drzejczyk. Polka lepsza od Amerykanki]]></title>
-<description><![CDATA[Ostatni raz Joanna JÄ™drzejczyk (16-3, 4 KO, 1 SUB) biÅ‚a siÄ™ w oktagonie podczas gali UFC w Tampie w paÅºdzierniku ubiegÅ‚ego roku. Jej przeciwniczkÄ… byÅ‚a wÃ³wczas Amerykanka Michelle Waterson (17-7, 3 KO, 9 SUB). Polka zwyciÄ™Å¼yÅ‚a przez jednogÅ‚oÅ›nÄ… decyzjÄ™ sÄ™dziÃ³w, torujÄ…c sobie drogÄ™ do walki o pas z ChinkÄ… Weili Zhang (20-1, 10 KO, 7 SUB).]]></description>
+<title><![CDATA[UFC: Ostatnia walka Jędrzejczyk. Polka lepsza od Amerykanki]]></title>
+<description><![CDATA[Ostatni raz Joanna Jędrzejczyk (16-3, 4 KO, 1 SUB) biła się w oktagonie podczas gali UFC w Tampie w październiku ubiegłego roku. Jej przeciwniczką była wówczas Amerykanka Michelle Waterson (17-7, 3 KO, 9 SUB). Polka zwyciężyła przez jednogłośną decyzję sędziów, torując sobie drogę do walki o pas z Chinką Weili Zhang (20-1, 10 KO, 7 SUB).]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/przypomnienie-ostatniej-walki-jedrzejczyk-wideo/</link>
 <pubDate>Thu, 05 Mar 2020 17:15:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/be/beahfywat4ujodkfwdpphzak43k13q5m.jpg" length="17093" type="image/jpg" />
@@ -186,8 +204,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/przypomnienie-ostatniej-walki-jedrzejczyk-wideo/</guid>
 </item>
 <item>
-<title><![CDATA[El. piÅ‚karskich ME kobiet: "ZagraÄ‡, jakby niedzieli miaÅ‚o nie byÄ‡"]]></title>
-<description><![CDATA[PiÅ‚karska reprezentacja kobiet sobotnim meczem z MoÅ‚dawiÄ… w Warszawie rozpocznie tegorocznÄ… czÄ™Å›Ä‡ grupowych eliminacji do mistrzostw Europy 2021. - Mamy zagraÄ‡ tak, jakby niedzieli miaÅ‚o nie byÄ‡ â€“ powiedziaÅ‚ PAP trener Polek MiÅ‚osz StÄ™piÅ„ski.]]></description>
+<title><![CDATA[El. piłkarskich ME kobiet: "Zagrać, jakby niedzieli miało nie być"]]></title>
+<description><![CDATA[Piłkarska reprezentacja kobiet sobotnim meczem z Mołdawią w Warszawie rozpocznie tegoroczną część grupowych eliminacji do mistrzostw Europy 2021. - Mamy zagrać tak, jakby niedzieli miało nie być – powiedział PAP trener Polek Miłosz Stępiński.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/el-pilkarskich-me-kobiet-zagrac-jakby-niedzieli-mialo-nie-byc/</link>
 <pubDate>Thu, 05 Mar 2020 17:10:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/d7/d7ax5so4bsun974a6uzsw79zxocqbmp4.JPG" length="24679" type="image/jpg" />
@@ -195,8 +213,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/el-pilkarskich-me-kobiet-zagrac-jakby-niedzieli-mialo-nie-byc/</guid>
 </item>
 <item>
-<title><![CDATA[ByÅ‚y piÅ‚karz reprezentacji Danii zaraÅ¼ony koronawirusem]]></title>
-<description><![CDATA[Thomas Kahlenberg, byÅ‚y wielokrotny reprezentant Danii w piÅ‚ce noÅ¼nej, miaÅ‚ pozytywny wynik testu na obecnoÅ›Ä‡ koronawirusa - poinformowaÅ‚y niemieckie i duÅ„skie media. Jak dodajÄ…, do zaraÅ¼enia miaÅ‚o dojÅ›Ä‡ podczas jego wizyty w Amsterdamie. ByÅ‚y zawodnik przechodzi obecnie kwarantannÄ™, podobnie jak niektÃ³rzy pracownicy duÅ„skiego klubu Broendby IF.]]></description>
+<title><![CDATA[Były piłkarz reprezentacji Danii zarażony koronawirusem]]></title>
+<description><![CDATA[Thomas Kahlenberg, były wielokrotny reprezentant Danii w piłce nożnej, miał pozytywny wynik testu na obecność koronawirusa - poinformowały niemieckie i duńskie media. Jak dodają, do zarażenia miało dojść podczas jego wizyty w Amsterdamie. Były zawodnik przechodzi obecnie kwarantannę, podobnie jak niektórzy pracownicy duńskiego klubu Broendby IF.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/byly-pilkarz-reprezentacji-danii-zarazony-koronawirusem/</link>
 <pubDate>Thu, 05 Mar 2020 17:05:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/vx/vxbufiq78ajdai55o1p39m26w8fo31bz.jpg" length="24827" type="image/jpg" />
@@ -204,8 +222,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/byly-pilkarz-reprezentacji-danii-zarazony-koronawirusem/</guid>
 </item>
 <item>
-<title><![CDATA[PÅš w skokach: Zdobywca KrysztaÅ‚owej Kuli zadebiutuje w Raw Air]]></title>
-<description><![CDATA[MogÅ‚oby siÄ™ wydawaÄ‡ to niemoÅ¼liwe, a jednak. Severin Freund po raz pierwszy w swojej karierze wystÄ…pi podczas turnieju Raw Air. Zdobywca KrysztaÅ‚owej Kuli z sezonu 2014/2015 zadebiutuje w norweskiej imprezie podczas prologu w Oslo.]]></description>
+<title><![CDATA[PŚ w skokach: Zdobywca Kryształowej Kuli zadebiutuje w Raw Air]]></title>
+<description><![CDATA[Mogłoby się wydawać to niemożliwe, a jednak. Severin Freund po raz pierwszy w swojej karierze wystąpi podczas turnieju Raw Air. Zdobywca Kryształowej Kuli z sezonu 2014/2015 zadebiutuje w norweskiej imprezie podczas prologu w Oslo.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-zdobywca-krysztalowej-kuli-zadebiutuje-w-raw-air/</link>
 <pubDate>Thu, 05 Mar 2020 16:46:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/5e/5ebe6h62kqotgp1zkmcte2yguvb9mmo1.jpg" length="12462" type="image/jpg" />
@@ -213,8 +231,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-zdobywca-krysztalowej-kuli-zadebiutuje-w-raw-air/</guid>
 </item>
 <item>
-<title><![CDATA[Ekstraliga rugby. Kto mistrzem Polski? Eksperci zabrali gÅ‚os!]]></title>
-<description><![CDATA[Ekstraliga Rugby wraca w najbliÅ¼szy weekend.Â WracajÄ… teÅ¼ transmisje w Polsacie Sport Fight. Takiego sezonu w polskim rugby nie byÅ‚o od lat. Wprawdzie do tytuÅ‚u kandydujÄ… znÃ³w przede wszystkim sopockie Ogniwo, ktÃ³re broni zÅ‚ota, oraz prowadzÄ…cy w tabeli zespÃ³Å‚ MasterPharm Rugby ÅÃ³dÅº, ale nie brakuje gÅ‚osÃ³w, Å¼e na najwyÅ¼szym stopniu podium moÅ¼e zasiÄ…Å›Ä‡ ktoÅ› trzeci. Kto? ZrobiliÅ›my sondÄ™ wÅ›rÃ³d znanych postaci polskiego rugby.]]></description>
+<title><![CDATA[Ekstraliga rugby. Kto mistrzem Polski? Eksperci zabrali głos!]]></title>
+<description><![CDATA[Ekstraliga Rugby wraca w najbliższy weekend. Wracają też transmisje w Polsacie Sport Fight. Takiego sezonu w polskim rugby nie było od lat. Wprawdzie do tytułu kandydują znów przede wszystkim sopockie Ogniwo, które broni złota, oraz prowadzący w tabeli zespół MasterPharm Rugby Łódź, ale nie brakuje głosów, że na najwyższym stopniu podium może zasiąść ktoś trzeci. Kto? Zrobiliśmy sondę wśród znanych postaci polskiego rugby.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ekstraliga-rugby-kto-mistrzem-polski-eksperci-zabrali-glos/</link>
 <pubDate>Thu, 05 Mar 2020 16:45:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/oq/oqb2hu4m376hmm4ayjxnd8habwccjzrb.jpg" length="31745" type="image/jpg" />
@@ -222,8 +240,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ekstraliga-rugby-kto-mistrzem-polski-eksperci-zabrali-glos/</guid>
 </item>
 <item>
-<title><![CDATA[Inauguracyjne posiedzenie SpoÅ‚ecznej Rady Sportu]]></title>
-<description><![CDATA[W siedzibie Polskiego Komitetu Olimpijskiego, pod przewodnictwem Minister Sportu Danuty Dmowskiej-Andrzejuk, odbyÅ‚o siÄ™ inauguracyjne posiedzenie SpoÅ‚ecznej Rady Sportu. To organ doradczy, w skÅ‚ad ktÃ³rej wchodzÄ… przedstawiciele polskiego sportu m.in. zawodnicy, trenerzy, nauczyciele akademiccy, prawnicy, a takÅ¼e osoby reprezentujÄ…ce wojsko, PFRON, PKPAR i wiele innych instytucji wspÃ³Å‚pracujÄ…cych na co dzieÅ„ z Ministerstwem Sportu.]]></description>
+<title><![CDATA[Inauguracyjne posiedzenie Społecznej Rady Sportu]]></title>
+<description><![CDATA[W siedzibie Polskiego Komitetu Olimpijskiego, pod przewodnictwem Minister Sportu Danuty Dmowskiej-Andrzejuk, odbyło się inauguracyjne posiedzenie Społecznej Rady Sportu. To organ doradczy, w skład której wchodzą przedstawiciele polskiego sportu m.in. zawodnicy, trenerzy, nauczyciele akademiccy, prawnicy, a także osoby reprezentujące wojsko, PFRON, PKPAR i wiele innych instytucji współpracujących na co dzień z Ministerstwem Sportu.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/inauguracyjne-posiedzenie-spolecznej-rady-sportu/</link>
 <pubDate>Thu, 05 Mar 2020 16:41:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/oi/oi58uwhztxwdo4sjhbgbjy2da9bnw62m.JPG" length="18604" type="image/jpg" />
@@ -231,8 +249,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/inauguracyjne-posiedzenie-spolecznej-rady-sportu/</guid>
 </item>
 <item>
-<title><![CDATA[Rusza sprzedaÅ¼ biletÃ³w na MemoriaÅ‚ Wagnera 2020]]></title>
-<description><![CDATA[JuÅ¼ w najbliÅ¼szy poniedziaÅ‚ek 9 marca rusza sprzedaÅ¼ biletÃ³w na tegoroczny MemoriaÅ‚ Huberta Jerzego Wagnera. XVIII edycja prestiÅ¼owego turnieju towarzyskiego zostanie rozegrana w dniach 9â€“11 lipca w krakowskiej Tauron Arenie, a zagrajÄ… w niej Polska, Argentyna, Iran oraz Tunezja. SprawdÅº, gdzie kupiÄ‡ bilety na MemoriaÅ‚ Wagnera 2020.]]></description>
+<title><![CDATA[Rusza sprzedaż biletów na Memoriał Wagnera 2020]]></title>
+<description><![CDATA[Już w najbliższy poniedziałek 9 marca rusza sprzedaż biletów na tegoroczny Memoriał Huberta Jerzego Wagnera. XVIII edycja prestiżowego turnieju towarzyskiego zostanie rozegrana w dniach 9–11 lipca w krakowskiej Tauron Arenie, a zagrają w niej Polska, Argentyna, Iran oraz Tunezja. Sprawdź, gdzie kupić bilety na Memoriał Wagnera 2020.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/rusza-sprzedaz-biletow-na-xviii-memorial-wagnera/</link>
 <pubDate>Thu, 05 Mar 2020 16:16:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/bi/bix4k5egakp327751kegbwf5knwpgobn.JPG" length="37661" type="image/jpg" />
@@ -240,8 +258,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/rusza-sprzedaz-biletow-na-xviii-memorial-wagnera/</guid>
 </item>
 <item>
-<title><![CDATA[RÃ³wno za rok lekkoatletyczne Halowe Mistrzostwa Europy w Toruniu]]></title>
-<description><![CDATA[RÃ³wno za rok w Arenie ToruÅ„ rozpocznÄ… siÄ™ Halowe Mistrzostwa Europy w Lekkiej Atletyce ToruÅ„ 2021. BÄ™dzie to jedna z najwiÄ™kszych imprez w naszym kraju w historii polskiej lekkiej atletyki.]]></description>
+<title><![CDATA[Równo za rok lekkoatletyczne Halowe Mistrzostwa Europy w Toruniu]]></title>
+<description><![CDATA[Równo za rok w Arenie Toruń rozpoczną się Halowe Mistrzostwa Europy w Lekkiej Atletyce Toruń 2021. Będzie to jedna z największych imprez w naszym kraju w historii polskiej lekkiej atletyki.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/rowno-za-rok-lekkoatletyczne-halowe-mistrzostwa-europy-w-toruniu/</link>
 <pubDate>Thu, 05 Mar 2020 15:56:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/8o/8or32mki3wodn6q6auz6b2x8ei8o4x1t.jpg" length="27202" type="image/jpg" />
@@ -249,8 +267,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/rowno-za-rok-lekkoatletyczne-halowe-mistrzostwa-europy-w-toruniu/</guid>
 </item>
 <item>
-<title><![CDATA[Ekstraliga rugby: Arka ogrywa wychowankÃ³w i liczy na pierwszÄ… wygranÄ…]]></title>
-<description><![CDATA[â€“ Nadal bÄ™dziemy ogrywaÄ‡ wychowankÃ³w i liczymy na pierwszÄ… wygranÄ…. Naszym atutem powinny byÄ‡ intensywne i trwajÄ…ce trzy miesiÄ…ce przygotowania â€“ przyznaÅ‚ czÅ‚onek zarzÄ…du Arki Daniel Bartkowiak. Po rundzie jesiennej gdyÅ„scy rugbiÅ›ci zamykajÄ… tabelÄ™ ekstraligi.]]></description>
+<title><![CDATA[Ekstraliga rugby: Arka ogrywa wychowanków i liczy na pierwszą wygraną]]></title>
+<description><![CDATA[– Nadal będziemy ogrywać wychowanków i liczymy na pierwszą wygraną. Naszym atutem powinny być intensywne i trwające trzy miesiące przygotowania – przyznał członek zarządu Arki Daniel Bartkowiak. Po rundzie jesiennej gdyńscy rugbiści zamykają tabelę ekstraligi.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ekstraliga-rugby-arka-ogrywa-wychowankow-i-liczy-na-pierwsza-wygrana/</link>
 <pubDate>Thu, 05 Mar 2020 15:42:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/74/745wkoqhdnqcesrjqi5idxk2wc2nui4e.jpg" length="22059" type="image/jpg" />
@@ -258,8 +276,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ekstraliga-rugby-arka-ogrywa-wychowankow-i-liczy-na-pierwsza-wygrana/</guid>
 </item>
 <item>
-<title><![CDATA[MotoGP: WyÅ›cigi w Tajlandii przeÅ‚oÅ¼one na 4 paÅºdziernika]]></title>
-<description><![CDATA[Planowane na 22 marca zawody cyklu motocyklowych mistrzostw Å›wiata w Tajlandii zostaÅ‚y przeÅ‚oÅ¼one na 4 paÅºdziernika - poinformowali organizatorzy. W czwartek opublikowano nowy kalendarz wyÅ›cigÃ³w Grand Prix w 2020 roku. Zmiany spowodowane sÄ… epidemiÄ… koronawirusa.]]></description>
+<title><![CDATA[MotoGP: Wyścigi w Tajlandii przełożone na 4 października]]></title>
+<description><![CDATA[Planowane na 22 marca zawody cyklu motocyklowych mistrzostw świata w Tajlandii zostały przełożone na 4 października - poinformowali organizatorzy. W czwartek opublikowano nowy kalendarz wyścigów Grand Prix w 2020 roku. Zmiany spowodowane są epidemią koronawirusa.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/motogp-wyscigi-w-tajlandii-przelozone-na-4-pazdziernika/</link>
 <pubDate>Thu, 05 Mar 2020 15:36:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/mu/mum39w5txry2rgincgkgoxwsci2ikdes.jpg" length="37639" type="image/jpg" />
@@ -267,8 +285,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/motogp-wyscigi-w-tajlandii-przelozone-na-4-pazdziernika/</guid>
 </item>
 <item>
-<title><![CDATA[Napastnik WisÅ‚y powoÅ‚any do reprezentacji Izraela]]></title>
-<description><![CDATA[Napastnik WisÅ‚y KrakÃ³w Alon Turgeman zostaÅ‚ powoÅ‚any doÂ  szerokiej kadry Izraela na baraÅ¼owe mecze eliminacji mistrzostw Europy. O start na Euro 2020 Izrael powalczy ze SzkocjÄ….]]></description>
+<title><![CDATA[Napastnik Wisły powołany do reprezentacji Izraela]]></title>
+<description><![CDATA[Napastnik Wisły Kraków Alon Turgeman został powołany do  szerokiej kadry Izraela na barażowe mecze eliminacji mistrzostw Europy. O start na Euro 2020 Izrael powalczy ze Szkocją.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/napastnik-wisly-powolany-do-reprezentacji-izraela/</link>
 <pubDate>Thu, 05 Mar 2020 15:03:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/vh/vhd9zdwhyfvdn6vvv7vh2xt7oor41qy1.jpg" length="20058" type="image/jpg" />
@@ -276,8 +294,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/napastnik-wisly-powolany-do-reprezentacji-izraela/</guid>
 </item>
 <item>
-<title><![CDATA[Kto zostanie mistrzem PlusLigi? Verva i PGE Skra mogÄ… mieÄ‡ problemy!]]></title>
-<description><![CDATA[Na finiszu rundy zasadniczej PlusLigi wykrystalizowaÅ‚a siÄ™ czoÅ‚owa czwÃ³rka. Wydaje siÄ™, Å¼e to wÅ‚aÅ›nie miÄ™dzy tymi zespoÅ‚ami rozegra siÄ™ walka o mistrzowski tytuÅ‚. KaÅ¼da z ekip ma jednak swoje problemy. SzczegÃ³lnie powaÅ¼ne mogÄ… mieÄ‡ Verva Warszawa ORLEN Paliwa i PGE Skra BeÅ‚chatÃ³w, o czym Jerzy Mielewski i Michal Masny rozmawiali w Prawdzie Siatki.]]></description>
+<title><![CDATA[Kto zostanie mistrzem PlusLigi? Verva i PGE Skra mogą mieć problemy!]]></title>
+<description><![CDATA[Na finiszu rundy zasadniczej PlusLigi wykrystalizowała się czołowa czwórka. Wydaje się, że to właśnie między tymi zespołami rozegra się walka o mistrzowski tytuł. Każda z ekip ma jednak swoje problemy. Szczególnie poważne mogą mieć Verva Warszawa ORLEN Paliwa i PGE Skra Bełchatów, o czym Jerzy Mielewski i Michal Masny rozmawiali w Prawdzie Siatki.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/kto-zostanie-mistrzem-plusligi-verva-i-pge-skra-moga-miec-problemy/</link>
 <pubDate>Thu, 05 Mar 2020 14:44:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/9o/9og2qb6oo43vjudtbhpciyuyj82mntxu.JPG" length="17012" type="image/jpg" />
@@ -285,8 +303,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/kto-zostanie-mistrzem-plusligi-verva-i-pge-skra-moga-miec-problemy/</guid>
 </item>
 <item>
-<title><![CDATA[Radomiak poÅ¼egnaÅ‚ siÄ™ z obroÅ„cÄ…. Powody rodzinne]]></title>
-<description><![CDATA[Francuski obroÅ„ca Chams Faraji z powodÃ³w rodzinnych odszedÅ‚ z Radomiaka Radom - poinformowaÅ‚ klub. Jego umowa zostaÅ‚a rozwiÄ…zana za porozumieniem stron.]]></description>
+<title><![CDATA[Radomiak pożegnał się z obrońcą. Powody rodzinne]]></title>
+<description><![CDATA[Francuski obrońca Chams Faraji z powodów rodzinnych odszedł z Radomiaka Radom - poinformował klub. Jego umowa została rozwiązana za porozumieniem stron.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/radomiak-pozegnal-sie-z-obronca-z-powodow-rodzinnych/</link>
 <pubDate>Thu, 05 Mar 2020 14:26:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/ou/ou21ffmhkaswae5s4ehupa4a8vagpimi.JPG" length="16030" type="image/jpg" />
@@ -294,8 +312,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/radomiak-pozegnal-sie-z-obronca-z-powodow-rodzinnych/</guid>
 </item>
 <item>
-<title><![CDATA[PÅ‚atek: ZrobiliÅ›my przemyÅ›lane transfery]]></title>
-<description><![CDATA[- ZrobiliÅ›my zimÄ… przemyÅ›lane transfery. PrzyjÅ›cie greckich zawodnikÃ³w to nie byÅ‚o last minute, bo ktoÅ› sobie coÅ› przypomniaÅ‚ â€“ powiedziaÅ‚ koordynator pionu sportowego ekstraklasowego GÃ³rnika Zabrze Artur PÅ‚atek.]]></description>
+<title><![CDATA[Płatek: Zrobiliśmy przemyślane transfery]]></title>
+<description><![CDATA[- Zrobiliśmy zimą przemyślane transfery. Przyjście greckich zawodników to nie było last minute, bo ktoś sobie coś przypomniał – powiedział koordynator pionu sportowego ekstraklasowego Górnika Zabrze Artur Płatek.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/platek-zrobilismy-przemyslane-transfery/</link>
 <pubDate>Thu, 05 Mar 2020 14:26:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/8x/8x4f4xwsqivtebpir257ck16wcvz2rin.JPG" length="23894" type="image/jpg" />
@@ -303,8 +321,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/platek-zrobilismy-przemyslane-transfery/</guid>
 </item>
 <item>
-<title><![CDATA[WT w tenisie stoÅ‚owym: ChiÅ„czycy przeznaczÄ… caÅ‚Ä… premiÄ™ na walkÄ™ z koronawirusem]]></title>
-<description><![CDATA[ChiÅ„scy tenisiÅ›ci stoÅ‚owi zapowiedzieli, Å¼e caÅ‚Ä… premiÄ™ za wystÄ™p w World Tourze w Katarze przeznaczÄ… na walkÄ™ z koronawirusem w Wuhan. Turniej najwyÅ¼szej kategorii World Tour Platinum potrwa w Dausze do niedzieli.]]></description>
+<title><![CDATA[WT w tenisie stołowym: Chińczycy przeznaczą całą premię na walkę z koronawirusem]]></title>
+<description><![CDATA[Chińscy tenisiści stołowi zapowiedzieli, że całą premię za występ w World Tourze w Katarze przeznaczą na walkę z koronawirusem w Wuhan. Turniej najwyższej kategorii World Tour Platinum potrwa w Dausze do niedzieli.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/wt-w-tenisie-stolowym-chinczycy-przeznacza-cala-premie-na-walke-z-koronawirusem/</link>
 <pubDate>Thu, 05 Mar 2020 14:25:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/f1/f1iotd2166d35jv31dcxtc3icmmb2b68.jpg" length="15663" type="image/jpg" />
@@ -312,8 +330,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/wt-w-tenisie-stolowym-chinczycy-przeznacza-cala-premie-na-walke-z-koronawirusem/</guid>
 </item>
 <item>
-<title><![CDATA[WyÅ›cig Strade Biache odwoÅ‚any. Perturbacje w kolarskim kalendarzu]]></title>
-<description><![CDATA[Coraz wiÄ™kszy obszar zagroÅ¼enia epidemiÄ… koronawirusa powoduje spore perturbacje w kalendarzu kolarskim. W czwartek odwoÅ‚any zostaÅ‚ wyÅ›cig Strade Biache (7 marca). Wiele wskazuje na to, Å¼e nie dojdÄ… do skutku inne marcowe imprezy we WÅ‚oszech. ZagroÅ¼ony jest takÅ¼e ParyÅ¼-Nicea.]]></description>
+<title><![CDATA[Wyścig Strade Biache odwołany. Perturbacje w kolarskim kalendarzu]]></title>
+<description><![CDATA[Coraz większy obszar zagrożenia epidemią koronawirusa powoduje spore perturbacje w kalendarzu kolarskim. W czwartek odwołany został wyścig Strade Biache (7 marca). Wiele wskazuje na to, że nie dojdą do skutku inne marcowe imprezy we Włoszech. Zagrożony jest także Paryż-Nicea.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/wyscig-strade-biache-odwolany-perturbacje-w-kolarskim-kalendarzu/</link>
 <pubDate>Thu, 05 Mar 2020 14:22:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/87/87v3rwq517carv9ibohre8ysy1mcvf73.jpg" length="24402" type="image/jpg" />
@@ -321,8 +339,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/wyscig-strade-biache-odwolany-perturbacje-w-kolarskim-kalendarzu/</guid>
 </item>
 <item>
-<title><![CDATA[Widzew ÅÃ³dÅº AMP Futbol oficjalnie nowÄ… sekcjÄ… Widzewa ÅÃ³dÅº]]></title>
-<description><![CDATA[Na poczÄ…tku marca dopeÅ‚nione zostaÅ‚y wszelkie formalnoÅ›ci, dziÄ™ki czemu w klubie z Al. PiÅ‚sudskiego 138 powstaÅ‚a druÅ¼yna AMP Futbolu. JuÅ¼ wkrÃ³tce czeka jÄ… debiut w ekstraklasie.]]></description>
+<title><![CDATA[Widzew Łódź AMP Futbol oficjalnie nową sekcją Widzewa Łódź]]></title>
+<description><![CDATA[Na początku marca dopełnione zostały wszelkie formalności, dzięki czemu w klubie z Al. Piłsudskiego 138 powstała drużyna AMP Futbolu. Już wkrótce czeka ją debiut w ekstraklasie.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/widzew-lodz-amp-futbol-oficjalnie-nowa-sekcja-widzewa-lodz/</link>
 <pubDate>Thu, 05 Mar 2020 14:19:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/ko/kocnqk17opbrj55kcrvawjkxibz32ocf.jpg" length="26227" type="image/jpg" />
@@ -330,8 +348,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/widzew-lodz-amp-futbol-oficjalnie-nowa-sekcja-widzewa-lodz/</guid>
 </item>
 <item>
-<title><![CDATA[JÄ™drzejczyk: Zhang jest bardzo niebezpieczna, ale zagramy w mojÄ… grÄ™]]></title>
-<description><![CDATA[JuÅ¼ w najbliÅ¼szy weekend na gali UFC 248 Joanna JÄ™drzejczyk (16-3, 4 KO, 1 SUB) stoczy bÃ³j z Weili Zhang (20-1, 10 KO, 7 SUB), ktÃ³rego stawkÄ… bÄ™dzie pas mistrzowski organizacji. Polska wojowniczka przyznaje, Å¼e czuje siÄ™ bardzo dobrze przygotowana i chce wykorzystaÄ‡ swoje doÅ›wiadczenie.]]></description>
+<title><![CDATA[Jędrzejczyk: Zhang jest bardzo niebezpieczna, ale zagramy w moją grę]]></title>
+<description><![CDATA[Już w najbliższy weekend na gali UFC 248 Joanna Jędrzejczyk (16-3, 4 KO, 1 SUB) stoczy bój z Weili Zhang (20-1, 10 KO, 7 SUB), którego stawką będzie pas mistrzowski organizacji. Polska wojowniczka przyznaje, że czuje się bardzo dobrze przygotowana i chce wykorzystać swoje doświadczenie.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/jedrzejczyk-zhang-jest-bardzo-niebezpieczna-ale-zagramy-w-moja-gre/</link>
 <pubDate>Thu, 05 Mar 2020 13:42:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/pp/pp9qxw6k8th63divqs44bmwxsk4jzx4t.jpg" length="22799" type="image/jpg" />
@@ -339,8 +357,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/jedrzejczyk-zhang-jest-bardzo-niebezpieczna-ale-zagramy-w-moja-gre/</guid>
 </item>
 <item>
-<title><![CDATA[Grozer doÅ‚Ä…czy do wÅ‚oskiego gwiazdozbioru? Ma zastÄ…piÄ‡ francuskiego bombardiera]]></title>
-<description><![CDATA[Georg Grozer doÅ‚Ä…czy do gwiazd w lidze wÅ‚oskiej. Jak podaje wÅ‚oski dziennikarz Gian Luca Pasini Niemiec zagra w zespole Gas Sales Piacenza. Do tej pory na pozycji atakujÄ…cego wystÄ™powaÅ‚ tam Gabriele Nelli.]]></description>
+<title><![CDATA[Grozer dołączy do włoskiego gwiazdozbioru? Ma zastąpić francuskiego bombardiera]]></title>
+<description><![CDATA[Georg Grozer dołączy do gwiazd w lidze włoskiej. Jak podaje włoski dziennikarz Gian Luca Pasini Niemiec zagra w zespole Gas Sales Piacenza. Do tej pory na pozycji atakującego występował tam Gabriele Nelli.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/grozer-we-wloszech-ma-zastapic-francuskiego-bombardiera/</link>
 <pubDate>Thu, 05 Mar 2020 13:19:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/p6/p6orbjxew1hdqz1bk2iiom8eji3oxtzf.JPG" length="34312" type="image/jpg" />
@@ -348,8 +366,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/grozer-we-wloszech-ma-zastapic-francuskiego-bombardiera/</guid>
 </item>
 <item>
-<title><![CDATA[KSW 53: Torres przywita w klatce utalentowanego SÅ‚owaka]]></title>
-<description><![CDATA[Mocno bijÄ…cy Daniel Torres (10-4, 5 KO,1 Sub) 21 marca ponownie zaprezentuje siÄ™ polskiej publicznoÅ›ci. Efektowny Brazylijczyk przywita w klatce KSW na KSW 53 w Å‚Ã³dzkiej Atlas Arenie znakomitego parterowca ze SÅ‚owacji, Vojto Barborika. Walka odbÄ™dzie siÄ™ w umownym limicie do 69 kilogramÃ³w.]]></description>
+<title><![CDATA[KSW 53: Torres przywita w klatce utalentowanego Słowaka]]></title>
+<description><![CDATA[Mocno bijący Daniel Torres (10-4, 5 KO,1 Sub) 21 marca ponownie zaprezentuje się polskiej publiczności. Efektowny Brazylijczyk przywita w klatce KSW na KSW 53 w łódzkiej Atlas Arenie znakomitego parterowca ze Słowacji, Vojto Barborika. Walka odbędzie się w umownym limicie do 69 kilogramów.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ksw-53-torres-przywita-w-klatce-utalentowanego-slowaka/</link>
 <pubDate>Thu, 05 Mar 2020 12:50:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/in/inw4j9ngq16dnyx1yxmqbg4j98k285uo.jpg" length="23245" type="image/jpg" />
@@ -357,8 +375,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ksw-53-torres-przywita-w-klatce-utalentowanego-slowaka/</guid>
 </item>
 <item>
-<title><![CDATA[PÃ³Å‚maraton w Poznaniu odwoÅ‚any z powodu koronawirusa]]></title>
-<description><![CDATA[Zaplanowany na 5 kwietnia PoznaÅ„ PÃ³Å‚maraton zostaÅ‚ odwoÅ‚any z powodu koronawirusa - zadecydowaÅ‚ w czwartek prezydent Poznania Jacek JaÅ›kowiak. Nowy termin nie jest jeszcze znany, organizatorzy nie wykluczajÄ… przeniesienia go na paÅºdziernik.]]></description>
+<title><![CDATA[Półmaraton w Poznaniu odwołany z powodu koronawirusa]]></title>
+<description><![CDATA[Zaplanowany na 5 kwietnia Poznań Półmaraton został odwołany z powodu koronawirusa - zadecydował w czwartek prezydent Poznania Jacek Jaśkowiak. Nowy termin nie jest jeszcze znany, organizatorzy nie wykluczają przeniesienia go na październik.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/polmaraton-w-poznaniu-odwolany-z-powodu-koronawirusa/</link>
 <pubDate>Thu, 05 Mar 2020 12:40:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/in/injfsjee3fsdng21a5he9rcico2jfqq3.jpg" length="32142" type="image/jpg" />
@@ -366,8 +384,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/polmaraton-w-poznaniu-odwolany-z-powodu-koronawirusa/</guid>
 </item>
 <item>
-<title><![CDATA[Europejski TrybunaÅ‚ Praw CzÅ‚owieka oddaliÅ‚ apelacjÄ™ Platiniego]]></title>
-<description><![CDATA[Europejski TrybunaÅ‚ Praw CzÅ‚owieka z siedzibÄ… w Strasburgu oddaliÅ‚ w czwartek apelacjÄ™ Michela Platiniego. ByÅ‚y szef Europejskiej Unii PiÅ‚karskiej uwaÅ¼a, Å¼e niesÅ‚usznie zostaÅ‚ zdyskwalifikowany na cztery lata w 2015 roku.]]></description>
+<title><![CDATA[Europejski Trybunał Praw Człowieka oddalił apelację Platiniego]]></title>
+<description><![CDATA[Europejski Trybunał Praw Człowieka z siedzibą w Strasburgu oddalił w czwartek apelację Michela Platiniego. Były szef Europejskiej Unii Piłkarskiej uważa, że niesłusznie został zdyskwalifikowany na cztery lata w 2015 roku.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/europejski-trybunal-praw-czlowieka-oddalil-apelacje-platiniego/</link>
 <pubDate>Thu, 05 Mar 2020 12:39:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/bo/bon8538z7o4u74qh1hnbzm5xdhhe1g7h.jpg" length="18366" type="image/jpg" />
@@ -375,8 +393,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/europejski-trybunal-praw-czlowieka-oddalil-apelacje-platiniego/</guid>
 </item>
 <item>
-<title><![CDATA[Serie A: Fiorentina domaga siÄ™ zwrotu pieniÄ™dzy za podrÃ³Å¼ na odwoÅ‚any mecz]]></title>
-<description><![CDATA[Epidemia koronawirusa zdezorganizowaÅ‚a rozgrywki wÅ‚oskiej Serie A do tego stopnia, Å¼e piÅ‚karze Fiorentiny domagajÄ… siÄ™ od wÅ‚adz ligi zwrotu kosztÃ³w podrÃ³Å¼y na mecz z Udinese, ktÃ³ry nie doszedÅ‚ do skutku ze wzglÄ™du na wspomnianÄ… chorobÄ™.]]></description>
+<title><![CDATA[Serie A: Fiorentina domaga się zwrotu pieniędzy za podróż na odwołany mecz]]></title>
+<description><![CDATA[Epidemia koronawirusa zdezorganizowała rozgrywki włoskiej Serie A do tego stopnia, że piłkarze Fiorentiny domagają się od władz ligi zwrotu kosztów podróży na mecz z Udinese, który nie doszedł do skutku ze względu na wspomnianą chorobę.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/serie-a-fiorentina-domaga-sie-zwrotu-pieniedzy-za-podroz-na-odwolany-mecz/</link>
 <pubDate>Thu, 05 Mar 2020 12:29:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/xq/xqu2erxa725z8odva4i4tbd1u58xzbx7.jpg" length="29785" type="image/jpg" />
@@ -384,8 +402,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/serie-a-fiorentina-domaga-sie-zwrotu-pieniedzy-za-podroz-na-odwolany-mecz/</guid>
 </item>
 <item>
-<title><![CDATA[Syn Messiego z dubletem. "Ta sama szybkoÅ›Ä‡, kontrola i wykoÅ„czenie" (WIDEO)]]></title>
-<description><![CDATA[Messi wciÄ…Å¼ nie przestaje strzelaÄ‡. Mowa nie tylko o 32-letnim Leo, ale takÅ¼e jego 7-letnim synu Thiago, ktÃ³ry stawia pierwsze kroki w szkÃ³Å‚ce Barcelony.]]></description>
+<title><![CDATA[Syn Messiego z dubletem. "Ta sama szybkość, kontrola i wykończenie" (WIDEO)]]></title>
+<description><![CDATA[Messi wciąż nie przestaje strzelać. Mowa nie tylko o 32-letnim Leo, ale także jego 7-letnim synu Thiago, który stawia pierwsze kroki w szkółce Barcelony.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/syn-messiego-z-dubletem-ta-sama-szybkosc-kontrola-i-wykonczenie-wideo/</link>
 <pubDate>Thu, 05 Mar 2020 12:08:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/1z/1zqjpkytph5kpnwcst6ufboogmosmi1t.png" length="124971" type="image/jpg" />
@@ -393,8 +411,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/syn-messiego-z-dubletem-ta-sama-szybkosc-kontrola-i-wykonczenie-wideo/</guid>
 </item>
 <item>
-<title><![CDATA[ObroÅ„ca Rakowa w szerokiej kadrze Czech!]]></title>
-<description><![CDATA[ObroÅ„ca i kapitan Rakowa CzÄ™stochowa Tomas Petrasek zostaÅ‚ powoÅ‚any do szerokiej kadry reprezentacji Czech na towarzyskie spotkania z Meksykiem i Hondurasem, ktÃ³re odbÄ™dÄ… siÄ™ w USA.]]></description>
+<title><![CDATA[Obrońca Rakowa w szerokiej kadrze Czech!]]></title>
+<description><![CDATA[Obrońca i kapitan Rakowa Częstochowa Tomas Petrasek został powołany do szerokiej kadry reprezentacji Czech na towarzyskie spotkania z Meksykiem i Hondurasem, które odbędą się w USA.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/obronca-rakowa-w-szerokiej-kadrze-czech/</link>
 <pubDate>Thu, 05 Mar 2020 12:07:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/73/73o3tqrvg2xj1qtfo8ozawjzgdyppk21.jpg" length="28154" type="image/jpg" />
@@ -402,8 +420,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/obronca-rakowa-w-szerokiej-kadrze-czech/</guid>
 </item>
 <item>
-<title><![CDATA[PÅš w skokach: Pora na Raw Air, czyli intensywne zakoÅ„czenie sezonu]]></title>
-<description><![CDATA[SzeÅ›Ä‡ konkursÃ³w, w tym cztery indywidualne poprzedzone kwalifikacjami, czeka skoczkÃ³w narciarskich w ciÄ…gu zaledwie 10 dni rywalizacji w cyklu Raw Air, ktÃ³ry wieÅ„czy sezon 2019/20 Pucharu Åšwiata. ZacznÄ… od Oslo, gdzie w sobotÄ™ odbÄ™dzie siÄ™ konkurs druÅ¼ynowy.]]></description>
+<title><![CDATA[PŚ w skokach: Pora na Raw Air, czyli intensywne zakończenie sezonu]]></title>
+<description><![CDATA[Sześć konkursów, w tym cztery indywidualne poprzedzone kwalifikacjami, czeka skoczków narciarskich w ciągu zaledwie 10 dni rywalizacji w cyklu Raw Air, który wieńczy sezon 2019/20 Pucharu Świata. Zaczną od Oslo, gdzie w sobotę odbędzie się konkurs drużynowy.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-pora-na-raw-air-czyli-intensywne-zakonczenie-sezonu/</link>
 <pubDate>Thu, 05 Mar 2020 11:47:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/zp/zp7ar1fk7gec4d99orsf9gej1fjkerdt.jpg" length="13857" type="image/jpg" />
@@ -411,8 +429,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/ps-w-skokach-pora-na-raw-air-czyli-intensywne-zakonczenie-sezonu/</guid>
 </item>
 <item>
-<title><![CDATA[GÃ³rnik rozwiÄ…zaÅ‚ umowÄ™ z obroÅ„cÄ…. TrafiÅ‚ do Norwegii]]></title>
-<description><![CDATA[Adam Orn Arnarson za porozumieniem stron rozwiÄ…zaÅ‚ kontrakt z GÃ³rnikiem Zabrze. 24-letni obroÅ„ca niedÅ‚ugo pÃ³Åºniej podpisaÅ‚ umowÄ™ z norweskim Tromso IL.]]></description>
+<title><![CDATA[Górnik rozwiązał umowę z obrońcą. Trafił do Norwegii]]></title>
+<description><![CDATA[Adam Orn Arnarson za porozumieniem stron rozwiązał kontrakt z Górnikiem Zabrze. 24-letni obrońca niedługo później podpisał umowę z norweskim Tromso IL.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/gornik-rozwiazal-umowe-z-obronca-trafil-do-norwegii/</link>
 <pubDate>Thu, 05 Mar 2020 11:42:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/yn/ynwz7i9oinxxsi1pjjmiscebpit6x9re.jpg" length="33969" type="image/jpg" />
@@ -420,8 +438,8 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/gornik-rozwiazal-umowe-z-obronca-trafil-do-norwegii/</guid>
 </item>
 <item>
-<title><![CDATA[Fortuna 1 Liga: Hitowy mecz w Bielsku-BiaÅ‚ej]]></title>
-<description><![CDATA[LiderujÄ…ca Warta PoznaÅ„ zagra na wyjeÅºdzie z zajmujÄ…cym trzecie miejsce Podbeskidziem Bielsko-BiaÅ‚a w 22. kolejce piÅ‚karskiej pierwszej ligi. Spotkanie odbÄ™dzie siÄ™ w poniedziaÅ‚ek, 9 marca o godz. 18.00.]]></description>
+<title><![CDATA[Fortuna 1 Liga: Hitowy mecz w Bielsku-Białej]]></title>
+<description><![CDATA[Liderująca Warta Poznań zagra na wyjeździe z zajmującym trzecie miejsce Podbeskidziem Bielsko-Biała w 22. kolejce piłkarskiej pierwszej ligi. Spotkanie odbędzie się w poniedziałek, 9 marca o godz. 18.00.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/fortuna-1-liga-hitowy-mecz-w-bielsku-bialej/</link>
 <pubDate>Thu, 05 Mar 2020 11:33:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/tm/tmnoiwxvihyty63xdm628476np3pkm3n.JPG" length="22134" type="image/jpg" />
@@ -429,31 +447,13 @@
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/fortuna-1-liga-hitowy-mecz-w-bielsku-bialej/</guid>
 </item>
 <item>
-<title><![CDATA[ByÅ‚y bramkarz Manchesteru United wznowiÅ‚ karierÄ™]]></title>
-<description><![CDATA[Po kilku miesiÄ…cach od podjÄ™tej decyzji dotyczÄ…cej zakoÅ„czenia kariery, Tim Howard postanowiÅ‚ wrÃ³ciÄ‡ do gry. ByÅ‚y bramkarz Manchesteru United oraz Evertonu bÄ™dzie wystÄ™powaÅ‚ na zapleczu MLS w barwach Memphis 901 FC.]]></description>
+<title><![CDATA[Były bramkarz Manchesteru United wznowił karierę]]></title>
+<description><![CDATA[Po kilku miesiącach od podjętej decyzji dotyczącej zakończenia kariery, Tim Howard postanowił wrócić do gry. Były bramkarz Manchesteru United oraz Evertonu będzie występował na zapleczu MLS w barwach Memphis 901 FC.]]></description>
 <link>https://www.polsatsport.pl/wiadomosc/2020-03-05/byly-bramkarz-manchesteru-united-wznowil-kariere/</link>
 <pubDate>Thu, 05 Mar 2020 11:24:00 +0100</pubDate>
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/cs/csoerrf9353vswtu43wjefuqnxqgo5pc.jpg" length="41235" type="image/jpg" />
 <enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/bc/bc467a2dt2h9p5zdew5nysvhnfb5e3f4.jpg" length="147373" type="image/jpg" />
 <guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/byly-bramkarz-manchesteru-united-wznowil-kariere/</guid>
-</item>
-<item>
-<title><![CDATA[ObroÅ„ca Jagiellonii wypoÅ¼yczony do Wigier]]></title>
-<description><![CDATA[Martin Adamec zostaÅ‚ wypoÅ¼yczony na pÃ³Å‚ roku z Jagiellonii BiaÅ‚ystok do Wigier SuwaÅ‚ki. JesieniÄ… 21-letni sÅ‚owacki piÅ‚karz takÅ¼e wystÄ™powaÅ‚ w Fortuna 1 Lidze - w Odrze Opole.]]></description>
-<link>https://www.polsatsport.pl/wiadomosc/2020-03-05/obronca-jagiellonii-wypozyczony-do-wigier/</link>
-<pubDate>Thu, 05 Mar 2020 11:07:00 +0100</pubDate>
-<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/p1/p1834s2nbvorgm1zswvnmus611819hmo.jpg" length="24936" type="image/jpg" />
-<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/re/rebxk9kozwu9bhnrm57fhswpvh1hazz6.jpg" length="74451" type="image/jpg" />
-<guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/obronca-jagiellonii-wypozyczony-do-wigier/</guid>
-</item>
-<item>
-<title><![CDATA[Szybka reakcja "Ibry" na rewolucjÄ™ w Milanie. Wymowny wpis Szweda]]></title>
-<description><![CDATA[Zlatan IbrahimoviÄ‡ bÅ‚yskawicznie zareagowaÅ‚ na doniesienia medialne dotyczÄ…ce rewolucji kadrowej w AC Milan. Szwed zamieÅ›ciÅ‚ na Twitterze wymowny wpis, ktÃ³ry moÅ¼e zaniepokoiÄ‡ kibicÃ³w Rossonerich.]]></description>
-<link>https://www.polsatsport.pl/wiadomosc/2020-03-05/szybka-reakcja-ibrahimovicia-na-rewolucje-w-milanie-wymowny-wpis-szweda/</link>
-<pubDate>Thu, 05 Mar 2020 10:48:00 +0100</pubDate>
-<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/xw/xwj2akwgm4etymz12z32n3y4hrjasdeb.jpg" length="16022" type="image/jpg" />
-<enclosure url="https://r.dcs.redcdn.pl/http/o2/redefine/cp/md/md3q6rfi5nc7g872du24mez4fwps8f58.jpg" length="49426" type="image/jpg" />
-<guid>https://www.polsatsport.pl/wiadomosc/2020-03-05/szybka-reakcja-ibrahimovicia-na-rewolucje-w-milanie-wymowny-wpis-szweda/</guid>
 </item>
 </channel>
 

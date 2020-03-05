@@ -697,3 +697,16 @@ Affected parameters are:
    logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
    assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
 Restoring event log to previous state for source SportNewsService.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Creating EventLog source SportNewsService in log Application...
+Rolling back assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Restoring event log to previous state for source SportNewsService.
