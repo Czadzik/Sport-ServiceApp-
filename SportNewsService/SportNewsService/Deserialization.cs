@@ -2,6 +2,7 @@
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
+using SportNewsService;
 
 namespace XML_class_test
 {
@@ -35,10 +36,12 @@ namespace XML_class_test
                     string xml = File.ReadAllText(path);
 
                     catalog1 = xml.ParseXML<channel>();
-                   
-                        DeserializationTest(catalog1);
+
+                //     DeserializationTest(catalog1);
 
 
+                MongoCRUD db = new MongoCRUD("SportService_Database");
+                db.InsertRecord("channels",catalog1);
                 
                 
 
