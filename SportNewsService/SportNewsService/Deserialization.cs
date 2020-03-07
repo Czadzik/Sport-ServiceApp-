@@ -21,7 +21,7 @@ namespace XML_class_test
         public static T ParseXML<T>(this string @this) where T : class
         {
             var reader = XmlReader.Create(@this.Trim().ToStream(),
-                new XmlReaderSettings() {ConformanceLevel = ConformanceLevel.Document});
+                new XmlReaderSettings() { ConformanceLevel = ConformanceLevel.Document });
             return new XmlSerializer(typeof(T)).Deserialize(reader) as T;
         }
 
@@ -32,22 +32,22 @@ namespace XML_class_test
             for (int i = 0; i < number_of_rss; i++)
             {
                 string path = AppDomain.CurrentDomain.BaseDirectory + "\\Updates\\Update__done_" + id[i] + ".xml";
-                
-                    string xml = File.ReadAllText(path);
 
-                    catalog1 = xml.ParseXML<channel>();
+                string xml = File.ReadAllText(path);
+
+                catalog1 = xml.ParseXML<channel>();
 
                 //     DeserializationTest(catalog1);
 
 
                 MongoCRUD db = new MongoCRUD("SportService_Database");
-                db.InsertRecord("channels",catalog1);
-                
-                
+                db.InsertRecord("channels", catalog1);
+
+
 
             }
 
-           
+
         }
 
         public static void DeserializationTest(channel catalog1)

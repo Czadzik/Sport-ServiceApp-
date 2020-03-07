@@ -17,9 +17,9 @@ namespace SportNewsService
     public partial class Service1 : ServiceBase
     {
         string[] id_of_rss = new[] { "pilkanozna", "siatkowka", "sportywalki", "pilkareczna", "moto", "tenis", "koszykowka", "wszystkie" };
+
         static string updateData(string link)
-        {
-           
+        {  
             string data;
             WebClient webClient = new WebClient();
             webClient.Headers.Add("User-Agent: Other");
@@ -37,7 +37,7 @@ namespace SportNewsService
         protected override void OnStart(string[] args)
         {
 
-            WriteToFile("Service is started at " + DateTime.Now, "pilkanozna");
+            WriteToFile("Service is started at " + DateTime.Now, "sportService");
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
             timer.Interval = 600000; //co jaki czas aktualizujemy dane
             timer.Enabled = true;
@@ -57,11 +57,11 @@ namespace SportNewsService
 
         protected override void OnStop()
         {
-            WriteToFile("Service is stopped at " + DateTime.Now, "pilkanozna");
+            WriteToFile("Service is stopped at " + DateTime.Now, "sportService");
         }
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
-            WriteToFile("Service is recall at " + DateTime.Now, "pilkanozna");
+            WriteToFile("Service is recall at " + DateTime.Now, "sportService");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/pilkanozna.xml"), "pilkanozna");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/siatkowka.xml"), "siatkowka");
             WriteToFile(updateData("https://www.polsatsport.pl/rss/sportywalki.xml"), "sportywalki");
