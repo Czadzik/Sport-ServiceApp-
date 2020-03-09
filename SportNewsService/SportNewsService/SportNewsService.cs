@@ -53,6 +53,7 @@ namespace SportNewsService
             LineRemover.RemoveLine(id_of_rss);
             Deserialization.Run(id_of_rss);
 
+
         }
 
         protected override void OnStop()

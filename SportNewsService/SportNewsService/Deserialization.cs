@@ -27,6 +27,7 @@ namespace XML_class_test
 
         public static void Run(string[] id)
         {
+            MongoCRUD db = new MongoCRUD("SportService_Database");
             channel catalog1 = default;
             int number_of_rss = 7;
             for (int i = 0; i < number_of_rss; i++)
@@ -36,18 +37,21 @@ namespace XML_class_test
                 string xml = File.ReadAllText(path);
 
                 catalog1 = xml.ParseXML<channel>();
-
+                for (int j = 0; j < 50; j++)
+                {
+                    catalog1.item[j].link= ContentDownloader.DownloadContent(catalog1.item[j].link);
+                }
                 //     DeserializationTest(catalog1);
 
 
-                MongoCRUD db = new MongoCRUD("SportService_Database");
+               
                 db.InsertRecord("channels", catalog1);
 
-
+                
 
             }
 
-
+             ;
         }
 
         public static void DeserializationTest(channel catalog1)

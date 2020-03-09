@@ -18,20 +18,20 @@ namespace SportNewsService
             string Output;
             try
             {
-               HtmlNodeCollection divContainer = doc.DocumentNode.SelectNodes("//div[@class='news__description']");
-               if (divContainer != null)
-               {
-                   foreach (var node in divContainer)
-                   {
-                    Description  = node.InnerHtml;
-                       return Description;
-                   }
-               }
-               else
-               {
-                   string error = "could not find text";
-                   return error;
-               }
+                HtmlNodeCollection divContainer = doc.DocumentNode.SelectNodes("//div[@class='news__description']");
+                if (divContainer != null)
+                {
+                    foreach (var node in divContainer)
+                    {
+                        Description  = node.InnerHtml;
+                        return Description;
+                    }
+                }
+                else
+                {
+                    string error = "could not find text";
+                    return error;
+                }
                 Console.WriteLine(Description);
             }
             catch (Exception)
