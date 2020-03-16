@@ -1361,3 +1361,246 @@ Affected parameters are:
    logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
    assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
 Restoring event log to previous state for source SportNewsService.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Creating EventLog source SportNewsService in log Application...
+Rolling back assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Restoring event log to previous state for source SportNewsService.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Warning: The source SportNewsService is not registered on the local machine.
+Service SportNewsService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Warning: The source SportNewsService is not registered on the local machine.
+Service SportNewsService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Creating EventLog source SportNewsService in log Application...
+Rolling back assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Restoring event log to previous state for source SportNewsService.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Warning: The source SportNewsService is not registered on the local machine.
+Service SportNewsService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Warning: The source SportNewsService is not registered on the local machine.
+Service SportNewsService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Uninstalling assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Removing EventLog source SportNewsService.
+Service SportNewsService is being removed from the system...
+Service SportNewsService was successfully removed from the system.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Creating EventLog source SportNewsService in log Application...
+Rolling back assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Restoring event log to previous state for source SportNewsService.
+Installing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe

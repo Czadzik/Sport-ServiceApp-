@@ -1,7 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Xml;
 using System.Xml.Serialization;
+using SportNews.Models;
 using SportNewsService;
 
 namespace XML_class_test
@@ -44,14 +46,33 @@ namespace XML_class_test
                 //     DeserializationTest(catalog1);
 
 
-               
-                db.InsertRecord("channels", catalog1);
+                var a = db.LoadRecord<ChanelMongoDatabesPatern>("channels");
+                bool IsRepeatability = false;
+                foreach (var item in a)
+                {
+                    if (item.title==catalog1.title)
+                    {
+                        IsRepeatability = true;
+                    }
+                }
 
+                if (IsRepeatability)
+                {          
+                    db.UpsertRecord("channels", catalog1.title, catalog1);
+                }
+                else
+                {
+                    db.InsertRecord("channels", catalog1);
+                }
+                   
+               
                 
+                
+              
 
             }
 
-             ;
+             
         }
 
         public static void DeserializationTest(channel catalog1)

@@ -93,6 +93,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChanelMongoDatabesPatern.cs" />
     <Compile Include="ContentDownloader.cs" />
     <Compile Include="Deserialization.cs" />
     <Compile Include="LineRemover.cs" />

@@ -21,8 +21,33 @@ namespace SportNewsService
         public void InsertRecord<T>(string table, T Record)
         {
             var colection = db.GetCollection<T>(table);
+            
             colection.InsertOne(Record);
             
+        }
+
+        public void UpsertRecord<ChanelMongoDatabesPatern>(string table, string title, ChanelMongoDatabesPatern record)
+        {
+            var colection = db.GetCollection<ChanelMongoDatabesPatern>(table);
+
+            var result=colection.ReplaceOne(
+                new BsonDocument("title",title),
+                record,
+                new UpdateOptions{IsUpsert = true});
+        }
+
+        public List<T> LoadRecord<T>(string table)
+        {
+            var colection = db.GetCollection<T>(table);
+            return colection.Find(new BsonDocument()).ToList();
+        }
+        
+
+        public T LoadRecordById<T>(string table, Guid id)
+        {
+            var colection = db.GetCollection<T>(table);
+            var filter = Builders<T>.Filter.Eq("Id", id);
+            return colection.Find(filter).First();
         }
       
         

@@ -392,7 +392,6 @@ C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsServic
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\nunit.framework.xml
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\Snappy.NET.xml
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\System.Buffers.xml
-C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.csprojAssemblyReference.cache
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.exe.config
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.ProjectInstaller.resources
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.Service1.resources
@@ -401,3 +400,4 @@ C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsServic
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.exe
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.pdb
 C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.pdb
+C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\obj\Debug\SportNewsService.csprojAssemblyReference.cache
