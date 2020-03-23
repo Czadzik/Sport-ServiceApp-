@@ -18,12 +18,19 @@ namespace SportNewsService
             string Output;
             try
             {
+                doc.DocumentNode.Descendants()
+                .Where(n => n.Name == "script" || n.Name == "style")
+                .ToList()
+                .ForEach(n => n.Remove());
                 HtmlNodeCollection divContainer = doc.DocumentNode.SelectNodes("//div[@class='news__description']");
+                var div = doc.DocumentNode.SelectSingleNode("//div[@class='teaser-content']/div");
+                
                 if (divContainer != null)
                 {
                     foreach (var node in divContainer)
                     {
-                        Description  = node.InnerHtml;
+
+                        Description  = node.InnerText;
                         return Description;
                     }
                 }

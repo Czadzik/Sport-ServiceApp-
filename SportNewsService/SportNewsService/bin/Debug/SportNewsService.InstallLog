@@ -1604,3 +1604,16 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
    assemblypath = C:\Users\Czadzik\source\repos\Sport-ServiceApp\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing assembly 'C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe
+Installing service SportNewsService...
+Service SportNewsService has been successfully installed.
+Creating EventLog source SportNewsService in log Application...
+Committing assembly 'C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.InstallLog
+   assemblypath = C:\Users\Czadzik\RiderProjects\Sport-ServiceApp-\SportNewsService\SportNewsService\bin\Debug\SportNewsService.exe

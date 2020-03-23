@@ -31,7 +31,7 @@ namespace XML_class_test
         {
             MongoCRUD db = new MongoCRUD("SportService_Database");
             channel catalog1 = default;
-            int number_of_rss = 7;
+            int number_of_rss = 8;
             for (int i = 0; i < number_of_rss; i++)
             {
                 string path = AppDomain.CurrentDomain.BaseDirectory + "\\Updates\\Update__done_" + id[i] + ".xml";
@@ -49,12 +49,12 @@ namespace XML_class_test
                 var a = db.LoadRecord<ChanelMongoDatabesPatern>("channels");
                 bool IsRepeatability = false;
                 foreach (var item in a)
-                {
-                    if (item.title==catalog1.title)
-                    {
-                        IsRepeatability = true;
-                    }
-                }
+                                 {
+                                     if (item.title==catalog1.title)
+                                     {
+                                         IsRepeatability = true;
+                                     }
+                                 }
 
                 if (IsRepeatability)
                 {          
